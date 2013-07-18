@@ -1,0 +1,29 @@
+h1. *PortalPETSistemas_WordPress*
+
+h2. _Descrição_
+
+Projeto Piloto para avaliação do WordPress para desenvolvimento do Portal PETSistemas
+O Sistema tem por objetivo auxiliar o gerenciamento das atividades do grupo PET-Sistemas. O sistema deve permitir o gerenciamento de notícias, pessoas(petianos, tutores e colaboradores), projetos (ensino, pesquisa e extensão), publicações (artigos, relatórios técnicos, tutoriais, manuais), bem como downloads de arquivos e instruções de ingresso (faça parte).
+O Sistemas deve exibir dados de notícias, pessoas (petianos, tutores e colaboradores), projetos (ensino, pesquisa e extesão), publicação, download e dados de ingresso.
+
+h2. _Tecnologias/Linguagens Utilizadas_
+
+* Plataforma: PHP
+* Banco de Dados: MySQL Community Server 5.5.28
+* Servidor de Aplicação: Apache
+* Arquitetura: MVC (Model-View-Controller)
+
+h2. _Frameworks_
+
+* WordPress
+
+h2. _Equipe PET de Desenvolvimento_
+
+* "Bruno de Freitas Monteiro":https://github.com/brunogok
+* "Daivid Santos Silverio":https://github.com/daividssilverio
+* "Gabriel Leme Medeiros":https://github.com/stantle
+* "Lillydi Cacere":https://github.com/lillydi
+* "Rebecca França Alves":https://github.com/rebeccafalves
+* "Rodrigo Kuninari":https://github.com/RodrigoKuninari
+* "Tamara Florentin Mendes":https://github.com/TamaraMendes
+* "Thiago Yudi Fukunaga":https://github.com/thiagoyf
