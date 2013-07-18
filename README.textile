@@ -2,7 +2,7 @@ h1. *PortalPETSistemas_WordPress*
 
 h2. _Descrição_
 
-Projeto Piloto para avaliação do WordPress para desenvolvimento do Portal PETSistemas
+*Projeto Piloto para avaliação do WordPress para desenvolvimento do Portal PETSistemas.*
 O Sistema tem por objetivo auxiliar o gerenciamento das atividades do grupo PET-Sistemas. O sistema deve permitir o gerenciamento de notícias, pessoas(petianos, tutores e colaboradores), projetos (ensino, pesquisa e extensão), publicações (artigos, relatórios técnicos, tutoriais, manuais), bem como downloads de arquivos e instruções de ingresso (faça parte).
 O Sistemas deve exibir dados de notícias, pessoas (petianos, tutores e colaboradores), projetos (ensino, pesquisa e extesão), publicação, download e dados de ingresso.
 
